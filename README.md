@@ -1,4 +1,12 @@
-### Flowchart
+# 🎉 Demo Mermaid
+
+Mermaid JS is a JavaScript library for generating diagrams and flowcharts that can be used in web applications and markdown editors. It offers a simple syntax for creating different types of diagrams, including flowcharts, sequence diagrams, and Gantt charts, and is open source.
+
+![version](https://img.shields.io/badge/version-1.0-blue)
+![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
+![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
+
+### ✅ Flowchart
 
 ```
 flowchart LR
@@ -18,7 +26,7 @@ C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
 ```
 
-### Sequence Diagram
+### ✅ Sequence Diagram
 
 ```
 sequenceDiagram
@@ -44,7 +52,7 @@ John->>Bob: How about you?
 Bob-->>John: Jolly good!
 ```
 
-### Gantt Chart
+### ✅ Gantt Chart
 
 ```
 gantt
@@ -68,7 +76,7 @@ gantt
     Parallel 4   :         des6, after des4, 1d
 ```
 
-### Class Diagram
+### ✅ Class Diagram
 
 ```
 classDiagram
@@ -108,7 +116,7 @@ class Class10 {
 }
 ```
 
-### State Diagram
+### ✅ State Diagram
 
 ```
 stateDiagram-v2
@@ -130,7 +138,7 @@ Moving --> Crash
 Crash --> [*]
 ```
 
-### Pie Chart
+### ✅ Pie Chart
 
 ```
 pie
@@ -146,7 +154,7 @@ pie
 "Rats" : 15
 ```
 
-### Journey Diagram
+### ✅ Journey Diagram
 
 ```
  journey
@@ -172,7 +180,7 @@ pie
       Sit down: 3: Me
 ```
 
-### C4 Diagram
+### ✅ C4 Diagram
 
 ```
 C4Context
