@@ -1,4 +1,4 @@
-# 🎉 Demo Mermaid
+# 🎉 Demo Mermaid Diagram
 
 Mermaid JS is a JavaScript library for generating diagrams and flowcharts that can be used in web applications and markdown editors. It offers a simple syntax for creating different types of diagrams, including flowcharts, sequence diagrams, and Gantt charts, and is open source.
 
