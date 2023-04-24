@@ -258,26 +258,24 @@ Rel(SystemC, customerA, "Sends e-mails to")
 flowchart TB 
 
 %% Style %
-classDef white fill:white,stroke:#000,stroke-width:2px,color:#fff
-classDef yellow fill:#fffD75,stroke:#000,stroke-width:2px,color:#000
+classDef yellow fill:#fffD75,stroke-width:2px,color:#fff
 
 %% Goals Database %
-DOCS("<img src='https://super.so/icon/dark/file-minus.svg'; width='40' />"):::white
+DOCS("<img src='https://img.icons8.com/ios/250/FFFFFF/pdf-2--v1.png'; width='40' />")
 
 %% Documents database %% 
-DOCS --- CREATEDBY("<img src='https://super.so/icon/dark/user.svg'; width='20' /> Created By"):::yellow
+DOCS --- CREATEDBY("<img src='https://img.icons8.com/ios/250/FFFFFF/user.png'; width='20' /> Created By"):::yellow
 ```
 
 ```mermaid
 flowchart TB 
 
 %% Style %
-classDef white fill:white,stroke:#000,stroke-width:2px,color:#fff
-classDef yellow fill:#fffD75,stroke:#000,stroke-width:2px,color:#000
+classDef yellow fill:#fffD75,stroke-width:2px,color:#fff
 
 %% Goals Database %
-DOCS("<img src='https://super.so/icon/dark/file-minus.svg'; width='40' />"):::white
+DOCS("<img src='https://img.icons8.com/ios/250/FFFFFF/pdf-2--v1.png'; width='40' />")
 
 %% Documents database %% 
-DOCS --- CREATEDBY("<img src='https://super.so/icon/dark/user.svg'; width='20' /> Created By"):::yellow
+DOCS --- CREATEDBY("<img src='https://img.icons8.com/ios/250/FFFFFF/user.png'; width='20' /> Created By"):::yellow
 ```
