@@ -251,31 +251,3 @@ BiRel(SystemAA, SystemE, "Uses")
 Rel(SystemAA, SystemC, "Sends e-mails", "SMTP")
 Rel(SystemC, customerA, "Sends e-mails to")
 ```
-
-### ✅ Custom
-
-```
-flowchart TB 
-
-%% Style %
-classDef yellow fill:#fffD75,stroke-width:2px,color:#fff
-
-%% Goals Database %
-DOCS("<img src='https://img.icons8.com/ios/250/FFFFFF/pdf-2--v1.png'; width='40' />")
-
-%% Documents database %% 
-DOCS --- CREATEDBY("<img src='https://img.icons8.com/ios/250/FFFFFF/user.png'; width='20' /> Created By"):::yellow
-```
-
-```mermaid
-flowchart TB 
-
-%% Style %
-classDef yellow fill:#fffD75,stroke-width:2px,color:#fff
-
-%% Goals Database %
-DOCS("<img src='https://img.icons8.com/ios/250/FFFFFF/pdf-2--v1.png'; width='40' />")
-
-%% Documents database %% 
-DOCS --- CREATEDBY("<img src='https://img.icons8.com/ios/250/FFFFFF/user.png'; width='20' /> Created By"):::yellow
-```
