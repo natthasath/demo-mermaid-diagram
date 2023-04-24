@@ -258,10 +258,11 @@ Rel(SystemC, customerA, "Sends e-mails to")
 flowchart TB 
 
 %% Style %
-classDef yellow fill:#fffD75,stroke:#000,stroke-width:2px,color:#fff
+classDef white fill:white,stroke:#000,stroke-width:2px,color:#fff
+classDef yellow fill:#fffD75,stroke:#000,stroke-width:2px,color:#000
 
 %% Goals Database %
-DOCS("<img src='https://super.so/icon/dark/file-minus.svg'; width='40' />")
+DOCS("<img src='https://super.so/icon/dark/file-minus.svg'; width='40' />"):::white
 
 %% Documents database %% 
 DOCS --- CREATEDBY("<img src='https://super.so/icon/dark/user.svg'; width='20' /> Created By"):::yellow
@@ -271,10 +272,11 @@ DOCS --- CREATEDBY("<img src='https://super.so/icon/dark/user.svg'; width='20' /
 flowchart TB 
 
 %% Style %
-classDef yellow fill:#fffD75,stroke:#000,stroke-width:2px,color:#fff
+classDef white fill:white,stroke:#000,stroke-width:2px,color:#fff
+classDef yellow fill:#fffD75,stroke:#000,stroke-width:2px,color:#000
 
 %% Goals Database %
-DOCS("<img src='https://super.so/icon/dark/file-minus.svg'; width='40' />")
+DOCS("<img src='https://super.so/icon/dark/file-minus.svg'; width='40' />"):::white
 
 %% Documents database %% 
 DOCS --- CREATEDBY("<img src='https://super.so/icon/dark/user.svg'; width='20' /> Created By"):::yellow
